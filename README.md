@@ -8,18 +8,6 @@
 
 </div>
 
-<br>
-
-## 💼 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Facens**
-- 💻 Desenvolvedor Full Stack com foco em **Frontend**
-- 🚀 Apaixonado por programação e soluções inovadoras
-- 📚 Aprimorando: **JavaScript, Python, HTML e CSS**
-- 🎯 Experiência em projetos práticos de desenvolvimento web
-
-<br>
-
 <div align="center">
 
 ## 🚀 Linguagens e Tecnologias
