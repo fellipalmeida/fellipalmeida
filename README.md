@@ -38,6 +38,6 @@
 
 <div align="center">
 
-## ⭐ Explore meus repositórios aqui no GitHub!
-<br><br>
+<h2 style="border: none;">⭐ Explore meus repositórios aqui no GitHub!</h2>
+<br>
 </div>
