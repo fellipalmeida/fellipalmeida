@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Olá!+Eu+sou+o+Fellip+Almeida)](https://git.io/typing-svg)
 
-### Desenvolvedor full stack apaixonado por tecnologia, inovação e boas práticas de código.
-
 <img align="center" alt="Gaming" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+### Desenvolvedor full stack apaixonado por tecnologia, inovação e boas práticas de código.
 
 </div>
 
