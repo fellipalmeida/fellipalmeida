@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Olá!+Eu+sou+o+Fellip+Almeida)](https://git.io/typing-svg)
 
-<img align="center" alt="Gaming" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<img align="center" alt="Gaming" width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ### Desenvolvedor full stack apaixonado por tecnologia, inovação e boas práticas de código.
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -40,4 +40,10 @@
 
 <h2 style="border: none;">⭐ Explore meus repositórios aqui no GitHub!</h2>
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fellipalmeida/fellipalmeida/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fellipalmeida/fellipalmeida/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fellipalmeida/fellipalmeida/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
