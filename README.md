@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hello+World+!)](https://git.io/typing-svg)
 
-### Meu nome é Fellip Almeida e sou Desenvolvedor Full-stack apaixonado por tecnologia e inovação.
+Meu nome é Fellip Almeida e sou Desenvolvedor Full-stack apaixonado por tecnologia e inovação.
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipalmeida)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellipalmeida1@gmail.com)
 
 </div>
 
@@ -10,6 +13,8 @@
 <div align="center">
 
 ## 🚀 Linguagens e Tecnologias
+
+<br>
 
 <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
@@ -22,11 +27,11 @@
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   
-## 📊 Estatísticas do GitHub 
+## 📊 Estatísticas do GitHub ![Profile Views](https://komarev.com/ghpvc/?username=fellipalmeida&color=blueviolet&style=flat-square&label=Visitantes)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;
