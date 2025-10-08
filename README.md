@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hello+World+!)](https://git.io/typing-svg)
 
-Meu nome é Fellip Almeida e sou Desenvolvedor Full-stack apaixonado por tecnologia e inovação.
+Meu nome é Fellip Almeida e sou Desenvolvedor Full-stack apaixonado por programação e tecnologia.
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipalmeida)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fellipalmeida1@gmail.com)
