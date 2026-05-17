@@ -29,16 +29,6 @@ Meu nome é Fellip Almeida e sou Desenvolvedor Full-stack apaixonado por program
 
 <br>
 
-<div align="center">
-  
-## 📊 Estatísticas do GitHub ![Profile Views](https://komarev.com/ghpvc/?username=fellipalmeida&color=blueviolet&style=flat-square&label=Visitantes)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipalmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipalmeida&layout=compact&langs_count=7&theme=tokyonight&card_width=300"/>
-</div>
-
-<br>
 
 <div align="center">
 
